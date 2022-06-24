@@ -1,0 +1,49 @@
+body {
+  background: black;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+div {
+  align-items: center;
+  margin-top: 4rem;
+  background-color: rgba(9, 98, 120, 0.7);
+  height: 80vh;
+  width: 70vh;
+}
+
+h2 {
+  color: rgb(154, 235, 252);
+  margin-top: 2rem;
+  margin-left: 1rem;
+  margin-bottom: 3rem;
+}
+
+button {
+  color: rgb(247, 241, 246);
+  margin-left: 4rem;
+  height: 3.5rem;
+  width: 15rem;
+  border-color: rgb(249, 233, 243);
+  border-radius: 2rem;
+  font-weight: bolder;
+  background-color: rgba(136, 12, 231, 0.7);
+}
+
+button:hover {
+  color: aqua;
+  background-color: rgba(231, 12, 122, 0.7);
+}
+
+.order {
+  margin-bottom: 2rem;
+}
+
+.new {
+  margin-bottom: 2rem;
+}
+
+.home {
+  margin-bottom: 2rem;
+}

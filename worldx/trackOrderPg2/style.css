@@ -1,0 +1,29 @@
+body {
+  margin-top: 12rem;
+  background: url(osupaxxx.jpg);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+h3 {
+  color: aqua;
+}
+
+button {
+  margin-top: 8px;
+  color: rgb(254, 9, 123);
+  height: 8vh;
+  width: 18vh;
+  border-radius: 1em;
+  font-weight: bolder;
+  background: rgba(0, 0, 0, 0.3);
+  border-color: rgb(254, 9, 123);
+}
+
+button:hover {
+  height: 9vh;
+  width: 19vh;
+  color: aqua;
+  border-color: aqua;
+}

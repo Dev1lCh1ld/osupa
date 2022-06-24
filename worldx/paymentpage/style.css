@@ -1,0 +1,58 @@
+body {
+  margin-left: 1rem;
+  background: black;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+div {
+  align-items: center;
+  margin-top: 2rem;
+  margin-left: 1rem;
+  background-color: rgba(9, 98, 120, 0.7);
+  height: 80vh;
+  width: 70vh;
+}
+h3 {
+  color: rgb(154, 235, 252);
+  margin-top: 2rem;
+  margin-left: 2rem;
+}
+
+h4 {
+  margin-left: 1rem;
+  color: rgb(249, 244, 248);
+}
+
+button {
+  color: rgb(247, 241, 246);
+  margin-left: 4.2rem;
+  height: 3.5rem;
+  width: 12rem;
+  border-color: rgb(249, 233, 243);
+  border-radius: 2rem;
+  font-weight: bolder;
+  background-color: rgba(136, 12, 231, 0.7);
+}
+
+button:hover {
+  color: aqua;
+  background-color: rgba(231, 12, 122, 0.7);
+}
+
+.img {
+  margin-left: 6rem;
+  margin-top: 2rem;
+  background-image: url(qrcode.png);
+  background-size: cover;
+  background-position: center;
+  height: 40%;
+  width: 45%;
+}
+
+.address {
+  margin-left: 2rem;
+  height: 2rem;
+  width: 25rem;
+}

@@ -1,0 +1,42 @@
+body {
+  background: url(https://data.whicdn.com/images/213004220/original.gif);
+  background-size: cover;
+}
+
+h1 {
+  color: rgb(254, 9, 123);
+}
+
+h1:hover {
+  color: aqua;
+}
+
+div {
+  background-image: url(https://rxgoldenpharmacy.com/wp-content/uploads/2019/11/Ecstasy-300x285.jpg);
+  width: 25rem;
+  height: 10rem;
+  color: rgb(13, 4, 8);
+  font-weight: bold;
+  background-color: aliceblue;
+  margin-top: 3rem;
+  border-radius: 2em;
+  text-align: center;
+}
+
+button {
+  margin-top: 8px;
+  color: rgb(254, 9, 123);
+  height: 8vh;
+  width: 18vh;
+  border-radius: 1em;
+  font-weight: bolder;
+  background: rgba(0, 0, 0, 0.3);
+  border-color: rgb(254, 9, 123);
+}
+
+button:hover {
+  height: 9vh;
+  width: 19vh;
+  color: aqua;
+  border-color: aqua;
+}

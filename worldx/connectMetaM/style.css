@@ -1,0 +1,35 @@
+body {
+  background: url(https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/2989da120242593.60adeb7e781fc.gif);
+  min-height: 100vh;
+  background-size: cover;
+  background-position: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+div {
+  width: 250px;
+  height: 250px;
+  background: rgba(0, 0, 0, 0.3);
+  backdrop-filter: blur(10px);
+  color: white;
+  font-size: 18px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 30px;
+}
+
+a {
+  text-decoration: none;
+}
+
+.metamask {
+  margin-left: 20px;
+  color: #06e2ed;
+}
+
+.metamask:hover {
+  color: #fad5f9;
+}
